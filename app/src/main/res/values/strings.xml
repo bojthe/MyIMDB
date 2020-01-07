@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyIMDB</string>
+
+    <!-- SharedPreferences data -->
+    <string name="active_user">Active User</string>
+    <string name="selected_movie">Movie Title</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text">Log In</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="register_text">Register</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="change_password_text">Change Password</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="similar_movies_text">Similar Movies</string>
+    <string name="description_text">Description</string>
+    <string name="photos_text">Photos</string>
+    <string name="no_data_text">Turn on the internet to see top movies</string>
+</resources>
